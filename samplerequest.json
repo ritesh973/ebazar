@@ -1,0 +1,56 @@
+{
+  "orderId": 1,
+  "customer": {
+    "customerId": 1,
+    "age": 29,
+    "name": "Ritesh",
+    "email": "test@gmail.com",
+    "category": "NA"
+  },
+  "orderLines": [{
+    "item":{
+      "id":1,
+      "name":"milk",
+      "cost":100.0,
+      "salePrice":120.0
+    },
+    "quantity":1
+  },
+    {
+      "item":{
+        "id":1,
+        "name":"milk",
+        "cost":100.0,
+        "salePrice":120.0
+      },
+      "quantity":1
+    },
+    {
+      "item":{
+        "id":1,
+        "name":"milk",
+        "cost":1001.0,
+        "salePrice":120.0
+      },
+      "quantity":1
+    },
+    {
+      "item":{
+        "id":1,
+        "name":"milk",
+        "cost":100.0,
+        "salePrice":120.0
+      },
+      "quantity":1
+    },
+    {
+      "item":{
+        "id":1,
+        "name":"milk",
+        "cost":100.0,
+        "salePrice":120.0
+      },
+      "quantity":1
+    }]
+
+}
